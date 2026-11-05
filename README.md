@@ -9,7 +9,7 @@ Designed with simplicity and productivity in mind, ProductiveBug aims to turn ov
 
 ---
 
-## 🎯 Why ProductiveBug?
+##  Why ProductiveBug?
 
 Students often struggle with managing multiple assignments, maintaining consistency, meeting deadlines, and staying focused for extended periods.
 
@@ -17,7 +17,7 @@ ProductiveBug was created to address these everyday challenges by bringing essen
 
 The goal is simple: **help students spend less time worrying about what to study and more time actually studying.**
 
-## 👥 Who Is It Made For?
+##  Who Is It Made For?
 
 ProductiveBug is designed especially for:
 
@@ -27,7 +27,7 @@ ProductiveBug is designed especially for:
 - 📚 **Competitive Exam Aspirants** – Maintain structured study routines and focused sessions.
 - 🧠 **Self-Learners** – Build consistency and stay accountable while learning new skills.
 
-## ✨ Key Benefits
+##  Key Benefits
 
 | Feature | Benefit |
 |---|---|
@@ -39,7 +39,7 @@ ProductiveBug is designed especially for:
 | 📈 Session Recording | Keep track of completed focus sessions. |
 | ✅ Task Completion | Track progress and experience a sense of accomplishment. |
 
-## 💡 What Makes ProductiveBug Useful?
+##  What Makes ProductiveBug Useful?
 
 - **Simplicity:** Focuses on essential productivity features without unnecessary complexity.
 - **Offline Accessibility:** Designed to support productivity without requiring constant internet access.
@@ -47,7 +47,7 @@ ProductiveBug is designed especially for:
 - **Improved Consistency:** Encourages regular study habits through focused sessions.
 - **Academic Organization:** Makes managing multiple subjects and responsibilities easier.
 
-## 🚀 Our Goal
+##  Our Goal
 
 ProductiveBug is built around one belief:
 
