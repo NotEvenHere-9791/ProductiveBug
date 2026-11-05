@@ -57,6 +57,6 @@ Our mission is to make everyday student productivity simpler, more accessible, a
 
 ---
 
-### 🐞 ProductiveBug — Make Every Study Session Count.
+###  ProductiveBug — Make Every Study Session Count.
 
 *Built for students. Designed for focus. Made for productivity.*
